@@ -6,3 +6,4 @@ review strategy.
 Java code 1
 
 researched and select classes.
+Machine learning courses 
