@@ -1,12 +1,8 @@
 # logs
 
-This repo is to document work in progress. 
-research on courses.
-review strategy.
-Java code 1
+This repo is to document Learning platforms:
+          Work in progress. 
+          Research on courses.
+          Review strategy.
 
-researched and select classes.
-Machine learning courses 
-Data science 
-coding
-Coding
+
